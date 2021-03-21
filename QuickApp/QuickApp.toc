@@ -1,0 +1,11 @@
+## Interface: 80300
+## Title: |cff00E5EEQuickApp
+## Author: MindScape
+## Version: 5.0.0
+## Notes: Adds "Appear" and "Summon" to the right-click menu.
+## DefaultState: Enabled
+## X-Date: March 21, 2021
+## X-Website: http://epsilonwow.net
+## X-Credits: Deramyr, LUA assistance and code writing
+
+QuickApp.lua
